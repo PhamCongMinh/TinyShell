@@ -1,7 +1,7 @@
 # TinyShell
 Bài tập lớn môn hệ điều hành:
 -	Giới thiệu, thiết kế một Shell đơn giản
-Chức năng:
+# Chức năng:
 -	Tạo tiến trình chạy file dạng .exe
 -	In ra thông tin về tiến trình, về các hàm thực hiện và có cả phần help để giúp đỡ người dùng.
 -	In ra thời gian hiện tại.
